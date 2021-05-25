@@ -219,7 +219,7 @@ class _HomePageState extends State<HomePage> {
       'amount': 250 * 100,
       'name': 'Demo Payment',
       'description': 'Demonstation of Payment',
-      'prefill': {'contact': '', 'email': ''},
+      'prefill': {'contact': '9999999999', 'email': 'razorpay_demo@yahoo.com'},
       'external': {
         'wallets': ['paytm']
       }
